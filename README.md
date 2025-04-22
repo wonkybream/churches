@@ -2,7 +2,7 @@
 
 A collection of churches I have seen and transformed into paintings using [Sora](https://sora.com/).
 
-### Tuupovaaran kirkko 
+### Tuupovaaran kirkko (2025-04-20)
 
 [Tuupovaaran kirkko - Joensuun seurakunnat](https://www.joensuunseurakunnat.fi/kirkot-ja-tilat/kirkot/tuupovaaran-kirkko)
 
